@@ -1,2 +1,6 @@
 # 24/7 บอทเพลง
-### ไม่การอัพเดพใดๆทั้งสิ้น
+
+##### วิธีการติดตั้ง 
+```fix
+npm install and npm i or npm i <packagename>
+```
